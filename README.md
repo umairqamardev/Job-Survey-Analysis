@@ -4,8 +4,8 @@ This repository contains a Power BI project focused on analyzing a job survey da
 
 ## Files in this Repository:
 
-1. **Job Survey Dataset.xlsx** - This Excel file contains the dataset related to job analysis, salary, and demographics of employed individuals.
-2. **Job Survey Analysis Project.pbix** - The Power BI project file containing data cleaning, transformation, and visualizations.
+1. **Power BI Dataset.xlsx** - This Excel file contains the raw data related to job analysis, salary, and demographics of employed individuals.
+2. **Power BI Project.pbix** - The Power BI project file containing data cleaning, Data Standardization, transformation, and visualizations.
 
 ## Project Overview:
 
@@ -28,12 +28,6 @@ The dataset used in this project consists of survey responses from individuals r
 ## Insights:
 
 The project provides key insights into factors influencing job roles, salary distribution, and how demographics such as age, gender, and education level affect these variables. 
-
-## Getting Started:
-
-To explore the project:
-1. Download the `Job Survey Dataset.xlsx` for reviewing the raw data.
-2. Open the `Job Survey Analysis Project.pbix` in Power BI to explore the visualizations and dashboard.
 
 ## Tools Used:
 
